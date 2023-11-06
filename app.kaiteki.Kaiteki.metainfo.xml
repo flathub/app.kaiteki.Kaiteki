@@ -6,7 +6,7 @@
   <name>Kaiteki</name>
   <summary>The comfy SNS client for everything, everywhere</summary>
   <description>
-    <p>Kaiteki is a cross-platform client for social networking sites. It currently supports Mastodon, Pleroma, Misskey and Twitter. Future backends could follow.</p>
+    <p>Kaiteki is a cross-platform client for social networking sites. It currently supports Mastodon, Pleroma, Misskey and Twitter.</p>
   </description>
   <launchable type="desktop-id">app.kaiteki.Kaiteki.desktop</launchable>
   <developer_name>Craftplacer</developer_name>
@@ -15,13 +15,13 @@
   <url type="translate">https://hosted.weblate.org/engage/kaiteki/</url>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c3d588d09ff4ec3346d79a879e4f8b3c636343d3/fastlane/metadata/android/en-US/images/sevenInchScreenshots/0.png</image>
+      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c1df11585d0f4e91ddb188cd5988c06d0ebbb7dc/fastlane/metadata/android/en-US/images/tenInchScreenshots/0.png</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c3d588d09ff4ec3346d79a879e4f8b3c636343d3/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png</image>
+      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c1df11585d0f4e91ddb188cd5988c06d0ebbb7dc/fastlane/metadata/android/en-US/images/tenInchScreenshots/1.png</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c3d588d09ff4ec3346d79a879e4f8b3c636343d3/fastlane/metadata/android/en-US/images/tenInchScreenshots/2.png</image>
+      <image type="source">https://raw.githubusercontent.com/Kaiteki-Fedi/Kaiteki/c1df11585d0f4e91ddb188cd5988c06d0ebbb7dc/fastlane/metadata/android/en-US/images/tenInchScreenshots/2.png</image>
     </screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
