@@ -6,9 +6,7 @@
   <name>Kaiteki</name>
   <summary>The comfy SNS client for everything, everywhere</summary>
   <description>
-    <p>
-      <p><em>Kaiteki</em> is a cross-platform client for social networking sites. It currently supports Mastodon, Pleroma, Misskey and Twitter. Future backends could follow.</p>
-    </p>
+    <p>Kaiteki is a cross-platform client for social networking sites. It currently supports Mastodon, Pleroma, Misskey and Twitter. Future backends could follow.</p>
   </description>
   <launchable type="desktop-id">app.kaiteki.Kaiteki.desktop</launchable>
   <developer_name>Craftplacer</developer_name>
