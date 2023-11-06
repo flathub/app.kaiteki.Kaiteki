@@ -40,6 +40,14 @@
     <control>touch</control>
   </recommends>
   <releases>
+    <release version="1.0.1" date="2023-11-06">
+        <description>
+          <ul>
+              <li>Fixes an issue where logging in was not possible</li>
+              <li>Mastodon searches will always return up to date queries.</li>
+          </ul>
+        </description>
+    </release>
     <release version="1.0.0" date="2023-05-01">
         <description>
           <ul>
