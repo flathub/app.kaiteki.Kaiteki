@@ -10,6 +10,7 @@ finish-args:
   - --share=network
   - --socket=pulseaudio
   - --socket=x11
+  - --own-name=moe.craftplacer.kaiteki
 cleanup:
   - .la
   - '*.a'
