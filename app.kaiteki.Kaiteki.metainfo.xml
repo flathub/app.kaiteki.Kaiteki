@@ -38,6 +38,15 @@
     <control>touch</control>
   </recommends>
   <releases>
+    <release version="1.1.0" date="2023-11-29">
+        <description>
+          <ul>
+              <li>Fix wide posts view issue</li>
+              <li>Fix broken links.</li>
+              <li>Improve Misskey Markdown handling</li>
+          </ul>
+        </description>
+    </release>
     <release version="1.0.1" date="2023-11-06">
         <description>
           <ul>
